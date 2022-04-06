@@ -1,0 +1,7 @@
+.hide-on-med-and-down {
+  display: unset !important;
+}
+nav .brand-logo {
+   left: unset;
+   transform: unset;
+}

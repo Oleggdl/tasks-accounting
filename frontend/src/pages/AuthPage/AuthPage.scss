@@ -1,0 +1,35 @@
+.formItem {
+  color: #ffffff;
+
+  * {
+    color: #ffffff;
+  }
+}
+
+label {
+  width: 100px;
+  color: #ffffff !important;
+}
+
+.inputPassword {
+  color: #000000 !important;
+  background-color: unset;
+}
+
+.ant-form-item-control {
+  background-color: unset;
+}
+
+.ant-col {
+  background-color: unset;
+}
+
+.authContainer {
+  margin-top: 120px;
+}
+@media only screen and (max-width: 900px) {
+  .authContainer {
+    width: 100%!important;
+    margin-left: unset!important;
+  }
+}
